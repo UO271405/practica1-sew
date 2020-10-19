@@ -1,0 +1,21 @@
+/*especificidad -> 1*/
+table{
+    border-collapse: collapse;
+    text-align: center;
+    margin-top: 1.25em;
+    margin-bottom:2.5em;
+    margin-left: auto;
+    margin-right: auto;
+}
+/*especificidad -> 1*/
+th{color: lightgray;}
+/*especificidad -> 1*/
+
+/*especificidad -> 1*/
+tr, td, th{ border: 0.05em solid grey;}
+
+
+/*especificidad -> 2*/
+table td{
+    text-align: center;
+}
