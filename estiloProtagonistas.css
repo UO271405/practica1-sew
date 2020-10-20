@@ -12,7 +12,7 @@
   width: 30em;
   height: 40em;
   object-fit: cover;
-  padding: 20px;
+  padding: 1.25em;
 }
 
 /*especificidad -> 100*/
@@ -20,7 +20,7 @@
   width: 30em;
   height: 40em;
   object-fit: cover;
-  padding: 20px;
+  padding: 1.25em;
 }
 
 /*especificidad -> 100*/
@@ -28,5 +28,5 @@
   width: 30em;
   height: 40em;
   object-fit: cover;
-  padding: 20px;
+  padding: 1.25em;
 }

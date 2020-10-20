@@ -42,7 +42,7 @@ h1{
 h2{
     text-align: left;
     background-color: black;
-    color: red;
+    color: #FE642E;
     text-transform: capitalize;
     margin-left: 1.3em;
 }
@@ -76,7 +76,7 @@ a:link {
 /*especificidad -> 11*/
 a:visited {
     background-color: black;
-    color: red;
+    color: #FE642E;
     text-decoration: none;
 }
 
