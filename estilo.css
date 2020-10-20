@@ -23,7 +23,11 @@ nav a {
     font-family: sans-serif;
 }
 
-
+/*especificidad -> 12*/
+nav a:hover {
+    background-color: orange;
+    color: white;
+}
 
 /*especificidad -> 1*/
 h1{
