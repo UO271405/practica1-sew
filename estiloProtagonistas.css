@@ -1,0 +1,32 @@
+/*especificidad -> 10*/
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    width: auto;
+  }
+
+/*especificidad -> 100*/
+#actrizLinda{
+  width: 30em;
+  height: 40em;
+  object-fit: cover;
+  padding: 20px;
+}
+
+/*especificidad -> 100*/
+#actorArnold{
+  width: 30em;
+  height: 40em;
+  object-fit: cover;
+  padding: 20px;
+}
+
+/*especificidad -> 100*/
+#actorMichael{
+  width: 30em;
+  height: 40em;
+  object-fit: cover;
+  padding: 20px;
+}
