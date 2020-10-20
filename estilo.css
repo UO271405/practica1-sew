@@ -2,7 +2,7 @@
 body {
     font: 400 1em Tahoma, sans-serif;
     line-height: 1.8;
-    color: gray;
+    color: white;
     background-color: black;
 }
 
@@ -18,15 +18,15 @@ nav a {
     padding: 0.93em 1.56em;
     text-align: center;
     background-color: black;
-    color: yellow;
+    color: white;
     margin: 0;
     font-family: sans-serif;
 }
 
 /*especificidad -> 12*/
 nav a:hover {
-    background-color: #777777;
-    color: #ffffff;
+    background-color: orange;
+    color: yellow;
 }
 
 /*especificidad -> 1*/
