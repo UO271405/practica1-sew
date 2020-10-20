@@ -115,13 +115,14 @@ table{
 }
 /*especificidad -> 1*/
 th{
+    font-style: italic;
     background-color: black;
-    color: lightgray;
+    color: white;
 }
 /*especificidad -> 1*/
 
 /*especificidad -> 1*/
-tr, td, th{ border: 0.05em solid grey;}
+tr, td, th{ border: 0.05em solid white;}
 
 
 /*especificidad -> 2*/
