@@ -137,19 +137,25 @@ table td{
 
 /*especificidad -> 100*/
 #theGuardianLogo{
-    width: 3.2em; height: 2.7em;
+    margin-left: 1.9em;
+    margin-right: 1em;
+    width: 3.4em; height: 3.4em;
     float: left;
 }
 
 /*especificidad -> 100*/
 #empireLogo{
-    width: 8.5em; height: 2.7em;
+    margin-left: 1.9em;
+    margin-right: 1em;
+    width: 8.5em; height: 3.4em;
     float: left;
 }
 
 /*especificidad -> 100*/
 #larsenOnFilmLogo{
-    width: 8.5em; height: 2.7em;
+    margin-left: 1.9em;
+    margin-right: 1em;
+    width: 8.5em; height: 3.4em;
     float: left;
 }
 
