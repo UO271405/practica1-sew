@@ -26,7 +26,7 @@ nav a {
 /*especificidad -> 12*/
 nav a:hover {
     background-color: orange;
-    color: black;
+    color: white;
 }
 
 /*especificidad -> 1*/
