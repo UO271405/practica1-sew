@@ -92,7 +92,6 @@ a:hover {
 /*especificidad -> 11*/
 a:active{
     background-color: black;
-    color: green;
     text-decoration: underline;
 }
 
