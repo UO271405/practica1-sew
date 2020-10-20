@@ -10,24 +10,24 @@
 
 /*especificidad -> 100*/
 #actrizLinda{
-  width: 30em;
-  height: 40em;
+  width: 20em;
+  height: 30em;
   object-fit: cover;
   padding: 1.25em;
 }
 
 /*especificidad -> 100*/
 #actorArnold{
-  width: 30em;
-  height: 40em;
+  width: 20em;
+  height: 30em;
   object-fit: cover;
   padding: 1.25em;
 }
 
 /*especificidad -> 100*/
 #actorMichael{
-  width: 30em;
-  height: 40em;
+  width: 20em;
+  height: 30em;
   object-fit: cover;
   padding: 1.25em;
 }
